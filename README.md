@@ -7,3 +7,4 @@
 - [Talking about the future using Present Simple and Present Continuous](TalkingaboutthefutureusingPresentSimpleandPresentContinuous.md)
 - [Participating in a discussion](Participatinginadiscussion.md)
 - [Linkers of reason, result, and purpose](Linkersofreasonresultandpurpose.md)
+- [Obligation, Prohibition and Permission](ObligationProhibitionandPermission.md)
